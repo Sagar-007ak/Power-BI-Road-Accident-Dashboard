@@ -17,7 +17,7 @@ It provides interactive insights into accident trends, casualties, and year-on-y
 
 This Power BI report provides a detailed analysis of road accident data in the United Kingdom. It presents key insights related to total casualties, accident types, vehicle involvement, and location-based trends.  
 🔗 **Dataset Link**: [Google Drive - Road Accident Data]https://docs.google.com/spreadsheets/d/1tdsA0IuAA_pTvupbG5sFtOZEm7qk0kpX/edit?gid=324101254#gid=324101254
--The dashboard supports quick identification of critical risk factors and high-impact areas for road safety improvements.
+The dashboard supports quick identification of critical risk factors and high-impact areas for road safety improvements.
 
 ---
 
